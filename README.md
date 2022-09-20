@@ -4,6 +4,8 @@
 
 ### Name: Sathyam Chanumolu
 
+![img2](https://user-images.githubusercontent.com/95714100/191374178-96f08234-ac8d-44ae-b176-323dab9b661c.jpg)
+
 # INTRODUCTION
 
 A house is a structure where people can reside. It is simply more than location and square footage. It is often constructed/bought for a family. Most modern homes include designated spaces or rooms where individuals can perform their requirements to live peacefully. The current home has a kitchen, a dining room, sleeping quarters, and a laundry room. These activities are typically carried out in different rooms known as the kitchen, living room, bedrooms, bathroom, and toilet (or lavatory). 
