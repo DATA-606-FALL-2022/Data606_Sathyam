@@ -52,7 +52,7 @@ Exploratory data analysis includes various statistical analysis, plots, graphs, 
 
 3.	Feature Engineering and Feature Selection:
 
-Feature engineering is an important part as to create some important features form existing features. Allow to explore feature selection method to reduce unnecessary columns.
+Feature engineering is an important part as to create some important features form existing features. Allows to explore feature selection method to reduce unnecessary columns.
 
 4.	Model Building:
 
