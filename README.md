@@ -138,7 +138,7 @@ Q-Q plot says that the log transformation of price column doesn't follow normali
 
 * Only 20% of the houses are furnished, while the other 80% are unfurnished.
 
-     **Bivariate Analysis:**
+   **Bivariate Analysis:**
   
 * There is a clear segregation, as furnished has higher price as compared to the non-furnished house.
 
@@ -376,3 +376,8 @@ valid_0's mape: 0.13702
 [4] Quang T, Minh N, Hy D, Bo M, Housing Price Prediction via Improved Machine Learning Techniques, 2019 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2019)  
   
   
+## Project PPT link:
+  https://github.com/DATA-606-FALL-2022/Data606_Sathyam/blob/main/Final%20PPT_House%20Price%20Prediction%20Analysis.pptx
+  
+## Presentation recording YouTube link:
+  https://youtu.be/kJ94LoO4-7k
